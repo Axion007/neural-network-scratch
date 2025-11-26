@@ -77,3 +77,10 @@ if __name__ == "__main__":
     predictions = nn.predict(X)
     for i, pred in enumerate(predictions):
         print(f"Input: {X[i]} -> Predicted: {pred[0]:.4f}, Actual: {y[i][0]}")
+
+## Learning Outcomes
+✅ Neural Network fundamentals
+✅ Backpropagation algorithm
+✅ Matrix operations with NumPy
+✅ Activation functions
+✅ Optimization concepts
