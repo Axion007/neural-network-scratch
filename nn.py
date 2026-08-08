@@ -62,7 +62,7 @@ class NeuralNetwork:
         """Make predictions"""
         return self.forward(X)
 
-# Example: XOR Problem
+# Example: XOR Problem-
 if __name__ == "__main__":
     # Training data (XOR problem)
     X = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])
