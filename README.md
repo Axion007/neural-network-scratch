@@ -23,4 +23,4 @@ A fully implemented feedforward neural network built from scratch using only Num
 - Binary cross-entropy loss
 - Gradient descent with configurable learning rate
 
-## Usage
+## Usage-
